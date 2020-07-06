@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,GACE,4BAEF,CACA,MAFE,YAKF,CAHA,GACE,4BAEF,CAEA,KACE,SACF","file":"main.99607ad0.chunk.css","sourcesContent":["th{\r\n  border-bottom: 2px solid #ddd;\r\n  padding: 12px;\r\n}\r\ntd {\r\n  border-bottom: 1px solid #ddd;\r\n  padding: 12px;\r\n}\r\n\r\n.red{\r\n  color: red;\r\n}\r\n"]}

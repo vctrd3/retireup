@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/retireup/static/css/main.99607ad0.chunk.css",
+    "main.js": "/retireup/static/js/main.7941f01d.chunk.js",
+    "main.js.map": "/retireup/static/js/main.7941f01d.chunk.js.map",
+    "runtime-main.js": "/retireup/static/js/runtime-main.f74d6ad3.js",
+    "runtime-main.js.map": "/retireup/static/js/runtime-main.f74d6ad3.js.map",
+    "static/css/2.ed590494.chunk.css": "/retireup/static/css/2.ed590494.chunk.css",
+    "static/js/2.604a3f80.chunk.js": "/retireup/static/js/2.604a3f80.chunk.js",
+    "static/js/2.604a3f80.chunk.js.map": "/retireup/static/js/2.604a3f80.chunk.js.map",
+    "index.html": "/retireup/index.html",
+    "precache-manifest.3af10dc3291658611367ef4db23fa90f.js": "/retireup/precache-manifest.3af10dc3291658611367ef4db23fa90f.js",
+    "service-worker.js": "/retireup/service-worker.js",
+    "static/css/2.ed590494.chunk.css.map": "/retireup/static/css/2.ed590494.chunk.css.map",
+    "static/css/main.99607ad0.chunk.css.map": "/retireup/static/css/main.99607ad0.chunk.css.map",
+    "static/js/2.604a3f80.chunk.js.LICENSE.txt": "/retireup/static/js/2.604a3f80.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f74d6ad3.js",
+    "static/css/2.ed590494.chunk.css",
+    "static/js/2.604a3f80.chunk.js",
+    "static/css/main.99607ad0.chunk.css",
+    "static/js/main.7941f01d.chunk.js"
+  ]
+}
